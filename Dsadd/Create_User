@@ -1,1 +1,1 @@
-d
+dsadd user "cn=Joe Lacrasse,ou=Prog,ou=LaPocatiere,dc=bebou,dc=local" -fn Joe -ln Lacrasse -display "Joe Lacrasse" -disabled no -upn jlacrasse@bebou.local -samid jlacrasse -pwd sea@2023 -mustchpwd no -pwdneverexpires yes -memberof cn=Direction,cn=Users,dc=bebou,dc=local
