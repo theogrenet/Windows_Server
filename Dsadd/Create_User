@@ -6,3 +6,5 @@ icacls \\SRV-WS2019-01\datacenter /remove jlacrasse
 
 net share
 
+net share MonDossierTest=S:\TestPartage /remark:"Partage de test"
+
