@@ -8,3 +8,6 @@ net share
 
 net share MonDossierTest=S:\TestPartage /remark:"Partage de test"
 
+net share MonDossierTest /delete
+
+  
