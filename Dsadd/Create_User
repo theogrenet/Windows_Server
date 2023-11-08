@@ -4,3 +4,5 @@ icacls \\SRV-WS2019-01\datacenter /grant jlacrasse:M
 
 icacls \\SRV-WS2019-01\datacenter /remove jlacrasse
 
+net share
+
