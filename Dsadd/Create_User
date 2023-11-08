@@ -2,3 +2,5 @@ dsadd user "cn=Joe Lacrasse,ou=Prog,ou=LaPocatiere,dc=bebou,dc=local" -fn Joe -l
 
 icacls \\SRV-WS2019-01\datacenter /grant jlacrasse:M
 
+icacls \\SRV-WS2019-01\datacenter /remove jlacrasse
+
